@@ -5,3 +5,5 @@
 import pandas as pd
 
 ########### DataFrame #############
+
+# CONSOLE: jupyter-lab or next file on the same directory #
