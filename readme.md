@@ -4,3 +4,7 @@ console: <strong> pip install jupyterlab </strong>
 
 console: <strong> jupyter-lab </strong>
 
+or:
+
+file in directory
+
